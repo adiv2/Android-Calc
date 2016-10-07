@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathMachine by Adi</string>
+    <string name="display"></string>
+    <string name="eq"></string>
+</resources>
